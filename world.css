@@ -1,0 +1,17 @@
+head{
+    color: #00FF00;
+}
+
+.title{
+    color: #12BC00;
+}
+
+body{
+    background-image: url(http://guarantysolar.com/wp-content/uploads/2015/06/Globe.png);
+    background-size: 90%;
+    background-position: center;
+    background-color: black;
+}
+.result-text{
+    color: white;
+}
